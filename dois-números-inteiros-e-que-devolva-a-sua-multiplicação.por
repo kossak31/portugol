@@ -12,10 +12,10 @@ programa
 		leia(numero2)
 
 
-		enquanto(inicio < numero1 ){
+		enquanto(inicio < numero2 ){
 		 	inicio++
 		 
-			resultado += numero2
+			resultado += numero1
 			escreva("numero ", resultado,"+\n")
 		}
 		
